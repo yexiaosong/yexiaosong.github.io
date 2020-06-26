@@ -1,0 +1,29 @@
+favicon: /favicon.ico
+
+
+# Nav Menus
+menu:
+    主页: /
+    归档: /archives
+    关于: /about
+
+# Nav Shortcut Icons
+nav_icons:
+    - ['/images/github.svg', 'https://github.com/yexiaosong']
+    - ['/images/zhihu.svg', 'https://www.zhihu.com/people/yexiaosong']
+
+# Friend Links
+friend_links:
+    - ['AngryPowman', 'This is a link', 'http://powman.org']
+    - ['Demo Links', 'You can change this in your theme config', 'http://powman.org']
+
+
+# About
+about_info:
+    name: "金缮（晓松）"
+    bio: "朽木易折，妙用金缮。"
+    avatar: "/images/avatar.jpg"
+
+ 
+# Copyright Infomation
+startyear: 2017
