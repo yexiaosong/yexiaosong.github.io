@@ -100,4 +100,4 @@ theme: prontera
 deploy:
   type: git
   repo: https://github.com/yexiaosong/yexiaosong.github.io
-  branch: master
+  branch: gh-pages
